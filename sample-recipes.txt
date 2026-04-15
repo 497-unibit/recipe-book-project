@@ -1,0 +1,126 @@
+=============================================
+RECIPE 1
+=============================================
+Title:
+Banana Pancakes
+
+Description:
+Fluffy homemade pancakes with ripe bananas, perfect for a quick breakfast.
+
+Ingredients (comma-separated):
+2 ripe bananas, 2 eggs, 150g flour, 1 tsp baking powder, 100ml milk, 1 tbsp sugar, butter for frying
+
+Instructions (one step per line):
+1. Mash the bananas in a bowl until smooth.
+2. Beat in the eggs and milk.
+3. Mix in flour, baking powder, and sugar until just combined.
+4. Heat butter in a pan over medium heat.
+5. Pour small portions of batter and cook until bubbles form on top.
+6. Flip and cook the other side until golden brown.
+7. Serve with honey or maple syrup.
+
+Image URL:
+https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=600
+
+
+=============================================
+RECIPE 2
+=============================================
+Title:
+Caprese Salad
+
+Description:
+A simple Italian salad with fresh mozzarella, tomatoes, and basil drizzled with olive oil.
+
+Ingredients (comma-separated):
+3 large tomatoes, 250g fresh mozzarella, fresh basil leaves, 3 tbsp extra virgin olive oil, 1 tbsp balsamic vinegar, salt, black pepper
+
+Instructions (one step per line):
+1. Slice tomatoes and mozzarella into even rounds.
+2. Arrange them alternately on a plate.
+3. Tuck fresh basil leaves between the slices.
+4. Drizzle with olive oil and balsamic vinegar.
+5. Season with salt and pepper.
+6. Serve immediately.
+
+Image URL:
+https://images.unsplash.com/photo-1592417817098-8fd3d9eb14a5?w=600
+
+
+=============================================
+RECIPE 3
+=============================================
+Title:
+Beef Tacos
+
+Description:
+Seasoned ground beef tacos loaded with fresh toppings in crispy shells.
+
+Ingredients (comma-separated):
+500g ground beef, 1 onion, 2 cloves garlic, 1 tbsp cumin, 1 tsp paprika, 8 taco shells, lettuce, 2 tomatoes, 100g cheddar cheese, sour cream, salt
+
+Instructions (one step per line):
+1. Dice the onion and mince the garlic.
+2. Brown the ground beef in a large pan over medium-high heat.
+3. Add onion and garlic and cook until softened.
+4. Stir in cumin, paprika, and salt. Cook for 2 more minutes.
+5. Warm the taco shells according to package instructions.
+6. Shred the lettuce, dice the tomatoes, and grate the cheese.
+7. Fill each shell with beef and top with lettuce, tomato, cheese, and sour cream.
+
+Image URL:
+https://images.unsplash.com/photo-1565299585323-38d6b0865b47?w=600
+
+
+=============================================
+RECIPE 4
+=============================================
+Title:
+Mushroom Risotto
+
+Description:
+A creamy Italian rice dish slowly cooked with mushrooms and parmesan.
+
+Ingredients (comma-separated):
+300g arborio rice, 250g mushrooms, 1 onion, 2 cloves garlic, 150ml white wine, 1L vegetable broth, 50g parmesan, 2 tbsp butter, 1 tbsp olive oil, salt, pepper
+
+Instructions (one step per line):
+1. Heat the broth in a pot and keep it warm on low heat.
+2. Slice the mushrooms and dice the onion and garlic.
+3. Sauté mushrooms in olive oil until golden, then set aside.
+4. In the same pan, melt butter and cook onion and garlic until soft.
+5. Add rice and stir for 1 minute until lightly toasted.
+6. Pour in white wine and stir until absorbed.
+7. Add broth one ladle at a time, stirring and waiting for each to absorb.
+8. After about 18 minutes, stir in mushrooms and grated parmesan.
+9. Season with salt and pepper and serve immediately.
+
+Image URL:
+https://images.unsplash.com/photo-1476124369491-e7addf5db371?w=600
+
+
+=============================================
+RECIPE 5
+=============================================
+Title:
+Chocolate Lava Cake
+
+Description:
+A rich individual chocolate cake with a warm, gooey molten center.
+
+Ingredients (comma-separated):
+200g dark chocolate, 100g butter, 3 eggs, 3 egg yolks, 80g sugar, 2 tbsp flour, butter and cocoa for ramekins
+
+Instructions (one step per line):
+1. Preheat oven to 220°C (430°F).
+2. Melt chocolate and butter together in a bowl over simmering water.
+3. Whisk eggs, egg yolks, and sugar until thick and pale.
+4. Fold the melted chocolate mixture into the egg mixture.
+5. Gently fold in the flour.
+6. Grease 4 ramekins with butter and dust with cocoa powder.
+7. Divide the batter evenly among the ramekins.
+8. Bake for 12 minutes until the edges are firm but the center is soft.
+9. Let cool for 1 minute, then invert onto plates and serve immediately.
+
+Image URL:
+https://images.unsplash.com/photo-1624353365286-3f8d62daad51?w=600
