@@ -1,0 +1,27 @@
+/* ==========================================================================
+   index.css — CUSTOM STYLES (supplements Bootstrap)
+   ==========================================================================
+   Bootstrap handles 95% of the styling. This file only adds the few custom
+   rules that Bootstrap doesn't provide out of the box.
+   ========================================================================== */
+
+/* Light gray background for the entire page (Bootstrap's default is white) */
+body {
+  background-color: #f8f9fa;
+  min-height: 100vh;
+}
+
+/* Force all recipe card images to the same height so the cards align neatly.
+   object-fit: cover crops the image to fill the box without distortion. */
+.recipe-card img {
+  height: 200px;
+  object-fit: cover;
+}
+
+/* The large image on the recipe detail page */
+.recipe-detail-img {
+  max-height: 400px;
+  object-fit: cover;
+  width: 100%;
+  border-radius: 0.5rem;
+}
